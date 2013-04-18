@@ -13,12 +13,13 @@ different decks together to form a cohesive cube for drafting.
   and similarly in the cube's dominant archetypes - which need not be strictly
   along color lines.
 * Decks should stick close to a rarity breakdown mirroring that of a standard
-  booster pack. This means roughly:
+  booster pack. Note that this is only a guideline and a secondary concern to
+  balanced power. Here's what we have as a starting point:
    * 5 rares/mythic rares
    * 15 uncommons
    * 50 commons
    * 2 flex slots
-  Note that this is only a guideline and a secondary concern to balanced power.
+  
 
 ## Restrictions
 
