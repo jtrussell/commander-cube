@@ -23,6 +23,16 @@ different decks together to form a cohesive cube for drafting.
 
 ## Restrictions
 
+* __Modern+__. I would like the Commander lists to be a reasonable entry point
+  for players new to the Commander format and Magic in general. So, for the sake
+  of consistency and to avoid cards with crazy wordings, lets limit the card
+  pool to only physical cards printed with the new card frame.  We're not
+  strictly sticking to modern legal cards though, anything with a new frame
+  is acceptable.
+* __No Foils__. This is mostly in reference to the above restriction. There are
+  some cards which have only been printed with a new frame in a premium foil
+  version. We're not going to include those in our pool.
+
 ### There can still only be one!
 
 For now, we're going to allow for duplicates across Commander lists. However,
