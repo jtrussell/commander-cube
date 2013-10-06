@@ -31,6 +31,7 @@
 - Terashi's Grasp
 
 - Auriok Salvagers
+- Burnished Hart
 - Faith's Fetters
 - Hillcomber Giant
 - Kor Cartographer
